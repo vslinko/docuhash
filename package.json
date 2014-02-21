@@ -1,0 +1,11 @@
+{
+    "name": "docuhash",
+    "version": "0.1.0",
+    "dependencies": {
+        "when": "^2.8",
+        "pdf2json": "^0.6",
+        "qrcode": "^0.2",
+        "pdfkit": "^0.4"
+    },
+    "private": true
+}
